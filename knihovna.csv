@@ -1,5 +1,5 @@
-id,nazev,autor,zanr
-1,Harry Potter,J.K. Rowling,Fantasy
-2,Hobit,J.R.R. Tolkien,Fantasy
-3,1984,George Orwell,Sci-fi
-4,Maly princ,Antoine de Saint-Exupery,Pohadka
+id,nazev,autor,zanr,pocet_stran
+1,Harry Potter,J.K. Rowling,Fantasy,336
+2,Hobit,J.R.R. Tolkien,Fantasy,310
+3,1984,George Orwell,Sci-fi,328
+4,Maly princ,Antoine de Saint-Exupery,Pohadka,96
